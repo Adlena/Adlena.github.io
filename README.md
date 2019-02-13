@@ -1,38 +1,11 @@
 # Alesia Malakovich
 
 ## Немного о себе
-You can use the [editor on GitHub](https://github.com/Adlena/Adlena.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  Молокович Алеся Владиславовна, 16.08.1991 г.р., родилась в г Речица, что в Гомельской области. В данный момент с конца 2018 года живу в Минске. Закончила Международный университет "МИТСО" в г. Гомеле в 2013г. по специальности Экономика и управление на предприятии промышленности с квалификацией Экономист-менеджер.
+  
+  Первый опыт работы был в сфере трейдинга на рынке Forex и управление инвестициями, позже это перешло в частную практику. С 2014 года работаю в банковской сфере в должности экономиста 1 категории по работе с клиентами. Основная работа заключается в поиске клиентов, консультировании и заключении сделок, а также дальнейшее сопровождение по вопросам возникающим в процессе действия заключенного договора. Занимаюсь изучением инноваций в мировой практике в банковской сфере и как международный опыт интегрируется на белорусском рынке, а также провожу мониторинг среди банков-конкурентов с целью выявления предложений для потенциальных клиентов.
+  
+  Свободное время стараюсь  уделять саморазвитию, среди которых  IT-cфера, просмотр видео-контента, изучение бесплатных онлайн-лекций. В 2018 г. Посещала курсы в г. Гомеле, что позволило систематизировать полученные знания, получить небольшой опыт в практике на C++/HTML,CSS, PHP,JS.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Adlena/Adlena.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  Почему привлекает именно IT-сфера? Возможность идти в ногу со временем, участвовать в создании чего-то нового, что может быть полезным для людей и существенно упростить жизнь. Это динамично развивающаяся сфера, в которой обладая необходимыми навыками можно найти себе применение в любой сфере и быть востребованным специалистом в любое время с собственным режимом и темпом работы.
